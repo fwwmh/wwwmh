@@ -1,0 +1,218 @@
+body{
+    background: rgb(255, 255, 255);
+    height: 100%;
+    overflow-y: scroll;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.brand{
+    float: right;
+    color: gray;
+    font-size: 75%;
+}
+
+
+.ac_outer{
+    clear: both;
+    width: 100%;
+    min-width: 840px;
+}
+
+.header_inner{
+    margin: auto;
+    width: 840px;
+    position: relative;
+    z-index: 1000;
+    box-shadow: none;
+}
+
+.Department_header_title{
+    float: left;
+    width: 600px;
+    padding: 10px;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    clear: both;
+}
+
+.Department_header_title h1{
+    float: left;
+    width:75%;
+}
+
+.Department_header_title h3{
+    padding-top: 15px;
+    width: 25%;
+    float: left;
+    color:#66009D;
+}
+.Department_header_title h4{
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    color: #808080;
+}
+
+.AClogo{
+    width:200px;
+    clear:right;
+    float:right;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    }
+
+.AClogo img{
+    float: right;
+    width:50%;
+}
+
+
+.photo_statment_inner{
+    margin: auto;
+    width: 840px;
+    position: relative;
+    z-index: 1000;
+    box-shadow: none;
+}
+
+.issue{
+  clear:right;
+  float:right;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.photo_statment_inner h3
+{
+    background-color: #66009D;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.tablt_width{
+    width: 100%;
+}
+.photo_statment_inner h3 a:link,.photo_statment_inner h3 a:visited
+{
+    color: #ffffff;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.photo_statment_inner tr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.priture{
+    clear: both;
+    float: left;
+    padding: 10px;
+}
+
+.photo_statment_inner h4{
+    display: block;
+    float: left;
+    text-align: left;
+    padding-top: 10px;
+    width:100%;
+}
+.photo_statment_inner h4 a{
+    text-decoration: none;
+}
+.photo_statment_inner h3 a{
+    padding-left: 10px;
+}
+
+.photo_statment_inner span{
+    width: 100%;
+    float: left;
+    text-align: left;
+}
+
+.qrCode{
+    padding-left: 150px;
+}
+
+.issue2Img{
+    padding: 10px;
+    widows: 53px;
+}
+.issue2Img_wechat{
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
+    float:left;
+}
+
+.wechatText{
+    float: right;
+    width: 770px;
+}
+
+.alumniFooter{
+    width:840px;
+    height:40px;
+}
+.alumniFooter img{
+    float: left;
+    width: 35px;
+}
+
+.alumniFooter font{
+    float: left;
+    margin-top: 15px;
+}
+
+
+.footer_inner{
+    margin: auto;
+    width: 840px;
+    height: 40px;
+    position: relative;
+    z-index: 1000;
+    box-shadow: none;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.footer_inner_2{
+    color: #ffffff;
+    width: 840px;
+    background-color: #66009D;
+    height:48px;
+}
+
+.footer_inner_2 h4{
+    font-weight:normal;
+    float: left;
+    width: 700px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
+
+.footer_inner_2 span{
+    padding-right: 30px;
+    line-height: 1.5;
+
+}
+
+.footer_inner img{
+    float: right;
+    padding: 5px;
+}
+
+.twostudent{
+    display: block;
+    float: left;
+    text-align: left;
+    padding-top: 10px;
+    width:100%;
+}
